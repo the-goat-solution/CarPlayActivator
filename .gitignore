@@ -27,3 +27,6 @@ DerivedData
 CarPlayActivator/carplaylauncher/theos
 
 CarPlayActivator/carplaylauncher/libflipswitch.dylib
+
+# Python
+__pycache__/
